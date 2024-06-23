@@ -40,7 +40,7 @@ const Footer = () => {
           <div className="min-w-[200px] h-auto flex flex-col items-center justify-start">
             <div className="font-bold text-[16px]">Social Media</div>
             <a
-  href="https://www.instagram.com/axxat18/"
+  href=""
   target="_blank"
   className="flex flex-row items-center my-[15px] cursor-pointer"
 >
@@ -48,7 +48,7 @@ const Footer = () => {
   <span className="text-[15px] ml-[6px]">Instagram</span>
 </a>
             <a
-              href="https://twitter.com/Axat_02"
+              href=""
               target="_blank"
               className="flex flex-row items-center my-[15px] cursor-pointer"
             >
@@ -56,7 +56,7 @@ const Footer = () => {
               <span className="text-[15px] ml-[6px]">Twitter</span>
             </a>
             <a
-              href="https://www.linkedin.com/in/akshat-agrawal-011675218/"
+              href="/"
               target="_blank"
               className="flex flex-row items-center my-[15px] cursor-pointer"
             >
@@ -67,7 +67,7 @@ const Footer = () => {
           <div className="min-w-[200px] h-auto flex flex-col items-center justify-start">
             <div className="font-bold text-[16px]">About</div>
             <a
-              href="https://drive.google.com/file/d/12YdLC-nZJgXHWAKHkqUo8HXxiEKSzXqP/view"
+              href=""
               target="_blank"
               className="flex flex-row items-center my-[15px] cursor-pointer"
             >
@@ -81,12 +81,12 @@ const Footer = () => {
               <span className="text-[15px] ml-[6px]">Learning about me</span>
             </a>
             <Link
-  href="mailto:axxatagrawal@gmail.com"
+  href="mailto:rahulbarve132@gmail.com"
   target="_blank"
   className="flex flex-row items-center my-[15px] cursor-pointer"
 >
   <span className="text-[15px] ml-[6px] cursor-pointer">
-    axxatagrawal@gmail.com
+    rahulbarve132@gmail.com
   </span>
 </Link>
 
@@ -94,7 +94,7 @@ const Footer = () => {
         </div>
 
         <div className="mb-[20px] text-[15px] text-center">
-          &copy; Akshat Agrawal 2023 Inc. All rights reserved
+          &copy; Rahul Barve 2023 Inc. All rights reserved
         </div>
       </div>
     </div>
