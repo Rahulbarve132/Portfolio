@@ -13,22 +13,23 @@ const Projects = () => {
       </h1>
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
         <ProjectCard
-          link="https://nikestore-akshat.netlify.app/"
-          src="/nike.png"
-          title="Nike Web Store"
-          description="Crafted a SaaS AI app using Next.js, Redux, and diverse AI technologies like ChatGPT 3.5, DALL·E 2, employing Clerk.js for robust user authentication and Tailwind CSS for a user-friendly interface"
+          link="/"
+          src="/SpaceWebsite.png"
+          title="SpaceWebsite"
+          description="Developed a dynamic portfolio website using Next.js, TailwindCSS, and Three.js, showcasing a futuristic space theme. Integrated 3D animations, interactive elements, and responsive design to provide an engaging and visually stunning user experience."
         />
         <ProjectCard
           link=""
-          src="/SpaceWebsite.png"
-          title="TasteBudz"
-          description="Tastebudz is a cutting-edge React-based website that seamlessly integrates Swiggy’s powerful API and boasts a
- visually appealing design with the help of Tailwind CSS functionalities managed through Redux."
+          src="/image.png"
+          title="CineSense"
+          description="
+
+Developed a responsive CineSense web app using React and TailwindCSS, integrating Firebase for authentication, TMDB API, and GPT-powered search. Features include multi-language support and an immersive movie browsing experience, deployed to production. "
         />
         <ProjectCard
-          link="/"
-          src="/SpaceWebsite.png"
-          title="Space Animated Portfolio"
+          link="https://ecoavenstra.vercel.app/"
+          src="/image2.png"
+          title="Ecoavenstra"
           description="Engineered a responsive Nike e-commerce platform using React, Redux, and Tailwind CSS, prioritizing user experience with interactive design elements and seamless shopping functionalities managed through Redux."
         />
       </div>
